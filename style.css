@@ -1,0 +1,65 @@
+* {
+     margin: 0;
+     padding: 0;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+.questions {
+    padding: 15vw 0;
+    text-align: center;
+}
+
+.title {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding-top: 30vh;
+}
+
+.btn {
+    font-size: 36px;
+    text-transform: uppercase;
+    width: 25vh;
+    padding: 10px 20px;
+    margin: 20px;
+    margin-top: 40px;
+    border-radius: 50px;
+    border: 2px solid white;
+}
+
+#fries {
+    background-color: gold;
+    color: whitesmoke;
+}
+
+#edamame {
+    background-color: green;
+    color: whitesmoke;
+}
+
+#icecream {
+    background-color: wheat;
+    color: whitesmoke;
+}
+
+#chips {
+    background-color: pink;
+    color: whitesmoke;
+}
+
+span {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 10vh;
+}
+
+#questionTwo {
+    display: none;
+}
